@@ -1,4 +1,4 @@
-from fastapi import FastAPI24
+from fastapi import FastAPI
 app = FastAPI()
 def sum_two_args(x,y):
 return x+y
